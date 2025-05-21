@@ -4,6 +4,9 @@
 This project is a **Face Recognition Application** designed to simplify employee and visitor authentication. The application leverages **AWS services** and python code for backend operations  and provides a responsive **React-based user interface** with both **light** and **dark modes**.
 
 ---
+## 🔄 Architectural Design
+![archdiagram](https://github.com/user-attachments/assets/8bb98663-3bd4-4eb7-88f4-6fd1e5237f6c)
+---
 
 ## 🌐 Features
 
